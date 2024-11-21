@@ -20,7 +20,7 @@ Add this to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "your-repo/WeatherAPIKit", from: "1.0.0")
+    .package(url: "https://github.com/Big-Baboon/weather-api-kit", from: "1.0.0")
 ]
 ```
 
